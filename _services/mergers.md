@@ -3,7 +3,7 @@ date: '2018-11-28T15:15:34+10:00'
 featured: true
 weight: 4
 layout: service
-title: i sve sotalo..
+title: i sve ostalo
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
